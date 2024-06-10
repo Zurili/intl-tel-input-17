@@ -1,5 +1,5 @@
 {
-  "name": "intl-tel-input",
+  "name": "@zurili/intl-tel-input-17",
   "version": "17.0.21",
   "description": "A JavaScript plugin for entering and validating international telephone numbers",
   "keywords": [
@@ -53,7 +53,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/jackocnr/intl-tel-input.git"
+    "url": "https://github.com/Zurili/intl-tel-input-17.git"
   },
   "scripts": {
     "test": "grunt travis",
